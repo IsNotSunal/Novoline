@@ -1,0 +1,41 @@
+### Gradle
+.gradle
+build
+
+# Cache of project
+.gradletasknamecache
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle auto-import
+.idea/artifacts
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/modules.xml
+.idea/modules
+
+### Java
+# Compiled class file
+*.class
+
+# Log files
+*.log
+*.log.gz
+
+### JetBrains
+# User-specific stuff
+.idea/hotswap_agent.xml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Sensitive files
+.idea/**/uiDesigner.xml
+
+# IntelliJ
+out/
+run/
